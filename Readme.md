@@ -1,1 +1,1 @@
-this is git,a distributed version control system
+this is git,a distributed version control system that tracks version of files
